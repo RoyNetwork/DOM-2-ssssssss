@@ -1,2 +1,3 @@
 # DOM-2-ssssssss
-DOM 2, amanhã posto o DOM 1 original.
+DOM 2, ignore o troia. Leve em consideração os outros.
+
